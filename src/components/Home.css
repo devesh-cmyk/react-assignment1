@@ -1,0 +1,11 @@
+.home-container {
+    background-image: url("background.png");
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 100vh; 
+    background-size: cover; 
+    background-position: top center; 
+    background-repeat: repeat-y; 
+    background-attachment: fixed; 
+}
